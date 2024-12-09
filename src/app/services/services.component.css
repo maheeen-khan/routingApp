@@ -1,0 +1,19 @@
+.JoinBtn{
+    background-color: #FC8621 !important;
+    color: white;
+}
+.ellipse1, .ellipse2 ,.ellipse3{
+    width: 60px;
+}
+.ellipse2{
+    margin-left: 19em;
+}
+.ellipse3{
+    margin-left: 5em;
+}
+
+@media screen and (max-width: 426px) {
+    .ellipse1, .ellipse2, .ellipse3{
+        display: none;
+    }
+}
