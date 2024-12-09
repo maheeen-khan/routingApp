@@ -1,0 +1,10 @@
+.startBtn{
+    background-color: #682C0E !important;
+    color: white !important;
+    border-radius: 9px !important;
+}
+@media screen and (max-width:425px) {
+    .col-cent{
+        text-align: center;
+    }
+}

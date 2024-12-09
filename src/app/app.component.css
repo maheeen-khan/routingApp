@@ -1,0 +1,17 @@
+.mynav{
+    background-color: #F9E0AE !important;
+}
+#logo{
+    width: 80px;
+}
+.contactBtn{
+    background-color: #C24914 !important;
+    border-radius: 9px !important;
+    border: none;
+    font-size: 14px;
+    font-weight: bold !important;
+    color: white !important;
+}
+.navbar{
+    font-weight: bold !important;
+}
